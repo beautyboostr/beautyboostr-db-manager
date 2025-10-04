@@ -1,1 +1,109 @@
 
+[
+  {
+    "INCI": "Aqua",
+    "Name_UA": "Вода",
+    "Origin": "Натуральне",
+    "Nature": "Неорганічна",
+    "Physical_Form": "Рідина",
+    "Ecology": "Екологічний",
+    "Restrictions": "Без обмежень",
+    "Usage_Percentages": {
+      "Cleansing_Gel": "50–80%",
+      "Cream": "40–70%",
+      "Tonic": null
+    },
+    "Functions": [
+      {
+        "IF_Percent": null,
+        "IF_pH": null,
+        "Target": "Для всіх типів шкіри",
+        "Function": "Розчинник"
+      }
+    ]
+  },
+  {
+    "INCI": "Lactic Acid",
+    "Name_UA": "Молочна кислота",
+    "Origin": "Натуральне",
+    "Nature": "Органічна",
+    "Physical_Form": "Рідина",
+    "Ecology": "Екологічний",
+    "Restrictions": "Відповідно до CPSR (pH ≤ 3.5, до 10% у професійних засобах)",
+    "Usage_Percentages": {
+      "Cleansing_Gel": "0–5%",
+      "Cream": "0–4%",
+      "Tonic": null
+    },
+    "Functions": [
+      {
+        "IF_Percent": "1–5",
+        "IF_pH": "4.5-6.5",
+        "Target": "Суха шкіра",
+        "Function": "Зволожувач"
+      },
+      {
+        "IF_Percent": "5–10",
+        "IF_pH": "3.0-4.5",
+        "Target": "Для всіх типів шкіри",
+        "Function": "Ексфоліант"
+      },
+      {
+        "IF_Percent": "0,1–1",
+        "IF_pH": null,
+        "Target": null,
+        "Function": "Для корекції pH засобу"
+      }
+    ]
+  },
+  {
+    "INCI": "Glycolic Acid",
+    "Name_UA": "Гліколева кислота",
+    "Origin": "Натуральне",
+    "Nature": "Органічна",
+    "Physical_Form": "Рідина",
+    "Ecology": "Екологічний",
+    "Restrictions": "Відповідно до CPSR (pH ≤ 3.5, до 10% у професійних засобах)",
+    "Usage_Percentages": {
+      "Cleansing_Gel": "0–5%",
+      "Cream": "0–4%",
+      "Tonic": null
+    },
+    "Functions": [
+      {
+        "IF_Percent": "1–5",
+        "IF_pH": "4.0-6.5",
+        "Target": "Суха шкіра",
+        "Function": "Зволожувач"
+      },
+      {
+        "IF_Percent": "5–20",
+        "IF_pH": "3.0-4.0",
+        "Target": "Для всіх типів шкіри",
+        "Function": "Ексфоліант"
+      }
+    ]
+  },
+  {
+    "INCI": "Salicylic Acid",
+    "Name_UA": "Саліцилова кислота",
+    "Origin": "Натуральне",
+    "Nature": "Органічна",
+    "Physical_Form": "Порошок",
+    "Ecology": "Екологічний",
+    "Restrictions": "Відповідно до CPSR (до 2% у незмивних засобах, до 3% у змивних)",
+    "Usage_Percentages": {
+      "Cleansing_Gel": "0.5-2%",
+      "Cream": "0.5-2%",
+      "Tonic": "0.5-2%"
+    },
+    "Functions": [
+      {
+        "IF_Percent": "0.5-2",
+        "IF_pH": "3.0-4.0",
+        "Target": "Жирна та проблемна шкіра",
+        "Function": "Ексфоліант, кератолітик, протизапальний"
+      }
+    ]
+  }
+]
