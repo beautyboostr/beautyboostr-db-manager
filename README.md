@@ -1,0 +1,1 @@
+# beautyboostr-db-manager
